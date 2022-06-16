@@ -1,4 +1,4 @@
-[paradox@archlinux ~]$ neofetch
+[Fisy_F ~]$ neofetch
 
                     -@                    fisy$f
                    .##@                   -----------------
